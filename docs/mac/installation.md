@@ -1,5 +1,7 @@
 # Installation
 
+Making some changes just for the Skatolo PR.
+
 Slicer for Mac is available on all Slicer license tiers. We've tested on macOS Sequoia and Tahoe. `slicer-mac` does not need `sudo`.
 
 ## Install the binaries
