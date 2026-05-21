@@ -1,5 +1,7 @@
 # Slicer documentation
 
+Changes from inside VM
+
 ## README for docs site maintenance
 
 This file is only for working on the documentation site.
